@@ -2,7 +2,7 @@
 
 # Team Members:
 1. Rajashekar Reddy Kommula
-2. Sujan Rao CHikkela
+2. Sujan Rao Chikkela
 3. Sai Subhash Chandra Reddy Gangireddygari
 4. Varun Reddy Seelam
 
