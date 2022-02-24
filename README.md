@@ -14,7 +14,7 @@ Researchers noted the primary purpose of EMR implementation was to improve the p
 
 # 2.Project title: O’ MyNatural
 
-  “We turn fertile lands into deserts by using ineffective farming technologies. There is no future until we return to organic farming and save the soil.” – Team 11
+# “We turn fertile lands into deserts by using ineffective farming technologies. There is no future until we return to organic farming and save the soil.” – Team 11
   
 Description of problem: 
 
