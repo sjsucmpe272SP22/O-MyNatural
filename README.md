@@ -1,5 +1,11 @@
 # Group-11
 
+# Team Members:
+Rajashekar Reddy Kommula
+Sujan Rao CHikkela
+Sai Subhash Chandra Reddy Gangireddygari
+Varun Reddy Seelam
+
 # 1.	Project title:  Tess – The MedEEdoc Assistant
   
   
