@@ -37,20 +37,3 @@ Currently, PetFinder.my ranks pet photos using a simple Cuteness Meter. It compa
 To predict the "Pawpularity" of pet photos, raw images and metadata are analyzed. You'll train and test your model on thousands of pet profiles on PetFinder.my. Winning versions will provide precise recommendations to improve animal welfare. 
 
 The solution will be incorporated into AI tools that will assist shelters and rescuers worldwide in improving the appeal of their pet profiles by automatically enhancing photo quality and recommending composition improvements. As a result, stray dogs and cats have a better chance of finding "forever" homes much faster.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/32640055/155440619-735324a5-b307-4130-a408-aa11cee8b3d4.png)
