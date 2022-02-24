@@ -1,6 +1,6 @@
 # Group-11
 
-1.	Project title:  Tess – The MedEEdoc Assistant
+# 1.	Project title:  Tess – The MedEEdoc Assistant
   
   
 Description of problem: 
@@ -12,7 +12,7 @@ Researchers noted the primary purpose of EMR implementation was to improve the p
 
 
 
-2.	Project title: O’ MyNatural
+# 2.Project title: O’ MyNatural
 
   “We turn fertile lands into deserts by using ineffective farming technologies. There is no future until we return to organic farming and save the soil.” – Team 11
   
@@ -22,7 +22,7 @@ We intend to create a one-stop website that will connect individuals with local 
 
  
 
-3.	Project title: Pet Finder
+# 3.Project title: Pet Finder
   
   
 Description of problem: 
