@@ -399,17 +399,11 @@ form.sign-in-form {
   }
 }
 
-
-
-
-
-
 /* hero video code  */
 
 #hero {
   height:100vh;
   width:100%;
-  background:red;
   display:flex;
   align-items:center;
   justify-content: center;

@@ -5,7 +5,7 @@ disease_dic = {
         <br/><br/> 1. Apple scab overwinters primarily in fallen leaves and in the soil. Disease development is favored by wet, cool weather that generally occurs in spring and early summer.
 
         <br/> 2. Fungal spores are carried by wind, rain or splashing water from the ground to flowers, leaves or fruit. During damp or rainy periods, newly opening apple leaves are extremely susceptible to infection. The longer the leaves remain wet, the more severe the infection will be. Apple scab spreads rapidly between 55-75 degrees Fahrenheit.
-        <br/><br/> How to prevent/cure the disease <br/>
+        <br/><br/> <b>How to prevent/cure the disease</b> <br/>
         <br/>1. Choose resistant varieties when possible.
 
         <br/>2. Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring
@@ -94,14 +94,12 @@ disease_dic = {
                     h.	Favorable weather forecast for disease.""",
 
 
-
-
     'Corn_(maize)___Common_rust_': """ <b>Crop</b>: Corn(maize) <br/>Disease: Common Rust<br/>
         <br/> Cause of disease:
 
         <br/><br/>Common corn rust, caused by the fungus Puccinia sorghi, is the most frequently occurring of the two primary rust diseases of corn in the U.S., but it rarely causes significant yield losses in Ohio field (dent) corn. Occasionally field corn, particularly in the southern half of the state, does become severely affected when weather conditions favor the development and spread of rust fungus
 
-        <br/><br/> How to prevent/cure the disease <br/>
+        <br/><br/> <b>How to prevent/cure the disease</b> <br/>
         <br/>1. Although rust is frequently found on corn in Ohio, very rarely has there been a need for fungicide applications. This is due to the fact that there are highly resistant field corn hybrids available and most possess some degree of resistance.
 
         <br/>2. However, popcorn and sweet corn can be quite susceptible. In seasons where considerable rust is present on the lower leaves prior to silking and the weather is unseasonably cool and wet, an early fungicide application may be necessary for effective disease control. Numerous fungicides are available for rust control. """,

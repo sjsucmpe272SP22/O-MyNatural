@@ -30,15 +30,15 @@ crop_dic = {
     'chickpea': """ <b>Steps To Grow</b>: 
         <br/>
         <br/>1. Planting Chickpeas: Plant chickpeas in full sun. Chickpeas will grow in partial shade but the yield will be reduced. Avoid planting chickpeas where green manures have just grown or in soil high in nitrogen; this will result in green leafy growth, not seed production.Add potassium and phosphorus to the soil.. Since the juniper galls are the source of the spores that infect the apple trees, cutting them is a sound strategy if there aren’t too many of them.
-
+        <br/>
         <br/>2. Planting Time: Chickpea is a cool-season annual that requires 100 or so days to reach harvest. Chickpeas are frost tolerant but grow best where daytime temperatures range between 70 and 80ºF (21-26ºC) and where nighttime temperatures do not dip below 65ºF(18ºC).
-
+        <br/>
         <br/>3. Planting and Spacing: Sow chickpeas 1½ to 2 inches (5cm) deep, spaced 3 to 6 inches (7-15cm) apart. Thin successful plants to 6 inches (15cm) apart; cutaway thinned plants at soil level with scissors so as not to disturb roots. Space rows 18 to 24 inches (45-61cm) apart.
-        
+                <br/>
         <br/>4. Water and Feeding Chick Peas: Keep chickpea planting beds evenly moist until chickpeas have pushed through the soil. Water regularly during flowering and pod formation. Avoid overhead watering which can cause flowers and pods to fall off.Mulch when the weather warms to conserve soil moisture. Add aged compost to planting beds in advance of planting.
-
+        <br/>
         <br/>5. Chickpea Care: Avoid handling chickpeas when they are wet or covered with heavy dew; this may spread fungus spores. Keep planting beds weed-free but cultivate around chickpeas carefully so as not to disturb the plant’s shallow root system.
-
+        <br/>
         <br/>6. Harvesting Chickpeas: Chickpeas will be ready for harvest about 100 days after planting. Chickpeas for fresh eating can be picked when pods are still immature and green; they can be eaten like snap beans.""",
 
     'kidneybeans': """ <b>Steps To Grow</b>: 
@@ -328,7 +328,7 @@ crop_dic = {
         <br/>
         <br/>2. Planting Time:Ideal daytime temperatures are between 26–30ºC (78–86ºF), with night temperatures no lower than 20ºC (67ºF). Acceptable temperatures are warm and very rarely reach lower than 14ºC (57ºF) or higher than 34ºC (93ºF). Bananas can take up to a year to produce fruit, so it's important to know what range of temperatures it will experience throughout the year.If the temperature falls below 14ºC (57ºF), your banana plants will simply stop growing.
         <br/>
-        <br/>3. Choose a sunny, well-drained location: Lentils grow well in both open gardens and containers. The key is to provide the plant with plenty of full sunlight. It helps to plant them alongside low lying plants so that the lentils are not overshadowed. 
+        <br/>3. Choose a sunny, well-drained location: coffee grow well in both open gardens and containers. The key is to provide the plant with plenty of full sunlight. It helps to plant them alongside low lying plants so that the lentils are not overshadowed. 
         <br/>
         <br/>4. Planting seeds: Plant seeds at least 1 inch (2.5 cm) deep. If your soil is moist and in good condition, plant the seeds at a depth of 1 inch (2.5 cm). 
         <br/>
